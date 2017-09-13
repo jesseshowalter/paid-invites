@@ -1,0 +1,154 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1882352941176471,
+        "green": 0.1882352941176471,
+        "red": 0.1882352941176471
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7960784313725491,
+        "green": 0.9372549019607843,
+        "red": 0.3333333333333332
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6821529443762407,
+        "green": 0.8296396683673469,
+        "red": 0.1706974451823521
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9764705882352941,
+        "green": 0.9764705882352941,
+        "red": 0.9764705882352941
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7803921568627451,
+        "green": 0.7686274509803922,
+        "red": 0.7607843137254902
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7529411764705882,
+        "green": 0.8901960784313725,
+        "red": 0.3098039215686275
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6549019608,
+        "green": 0.6,
+        "red": 0.5647058824
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3490196078431373,
+        "green": 0.2588235294117647,
+        "red": 0.996078431372549
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2627450980392156,
+        "green": 0.3725490196078431,
+        "red": 0.996078431372549
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1094621494412422,
+        "green": 0.7890919681522064,
+        "red": 0.9707751870155334
+      }
+    ],
+    "gradients": [
+      {
+        "_class": "gradient",
+        "do_objectID": "8EFC98E5-F69B-43EE-BA7C-318B37908CB5",
+        "elipseLength": 0,
+        "from": "{0, 0.5}",
+        "gradientType": 0,
+        "shouldSmoothenOpacity": false,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.611764705882353,
+              "green": 0.8784313725490196,
+              "red": 0.5999999999999999
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.7960784313725491,
+              "green": 0.9372549019607843,
+              "red": 0.3333333333333332
+            },
+            "position": 1
+          }
+        ],
+        "to": "{1, 0.5}"
+      }
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "do_objectID": "30689CDD-32FB-4752-AFFA-D5F5CD5591B6",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "pages": [
+    "current",
+    "concept",
+    "small screens",
+    "android",
+    "symbols"
+  ],
+  "userInfo": {
+    "com.abstractapp.sketchplugin.1685a5c9-5230-4d37-963c-5efa0f361065": {
+      "metadata": {
+        "baseSHA": "8e17ef136fb1cc84c778d7943511a16cf2154cba",
+        "branchId": "master",
+        "branchName": "Master",
+        "fileId": "30689CDD-32FB-4752-AFFA-D5F5CD5591B6",
+        "fileTreeSHA": "994044e091b64860e7327a9b4acf95ebea01d113",
+        "name": "paid_invites_jesse",
+        "projectId": "26a5bbd0-92ae-11e7-8da5-e9ef81ad0bbb",
+        "projectName": "Paid Invites"
+      }
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
