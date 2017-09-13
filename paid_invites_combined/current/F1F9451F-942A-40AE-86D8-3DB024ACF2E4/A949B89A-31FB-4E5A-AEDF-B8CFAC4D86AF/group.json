@@ -1,6 +1,6 @@
 {
-  "_class": "symbolInstance",
-  "do_objectID": "128DF932-CF0F-441D-B8F3-6B8463150971",
+  "_class": "group",
+  "do_objectID": "A949B89A-31FB-4E5A-AEDF-B8CFAC4D86AF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,26 +13,33 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
-    "width": 270,
-    "x": 53,
-    "y": 309
+    "height": 81,
+    "width": 375,
+    "x": 0,
+    "y": 0
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Gradient Button",
-  "nameIsFixed": false,
-  "overrides": {
-    "49C4682E-91E4-439F-85B3-000B146EC82A": "Upgrade for This Flyer"
-  },
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5C114678-7FE1-48B2-8640-12D26FB1BC8B"
+    },
+    {
+      "class": "group",
+      "id": "78A0BC33-43AD-4B6D-8CCD-6C121A65FF87"
+    },
+    {
+      "class": "group",
+      "id": "8BECB603-5510-4145-AB6C-1AC8B5687FD1"
+    }
+  ],
+  "name": "top",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -42,7 +49,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "symbolID": "427F2E19-8A44-45F7-A58E-7A4918C1472B",
-  "verticalSpacing": 0
+  }
 }
