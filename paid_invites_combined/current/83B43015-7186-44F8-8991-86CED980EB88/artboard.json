@@ -1,0 +1,115 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9686274509803922,
+    "green": 0.9686274509803922,
+    "red": 0.9686274509803922
+  },
+  "do_objectID": "83B43015-7186-44F8-8991-86CED980EB88",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": -2046,
+    "y": 2256
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      271
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "2DF2A52D-FD04-4AEC-86EE-8E875B9E66CE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "412AB798-87D0-4035-8D9E-8A0FD63C079B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A9CC277D-B053-4C70-AF94-E813F1C19B20"
+    },
+    {
+      "class": "group",
+      "id": "2EDCDB86-6A91-4673-BA52-931E375B7FEF"
+    },
+    {
+      "class": "group",
+      "id": "3223076C-A30F-43D8-9732-F40405574965"
+    },
+    {
+      "class": "group",
+      "id": "8C2FB19F-3A46-484C-A554-78F74BE18E2A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "561D5AD0-CAEB-45EC-AE47-1A2F29C23EAD"
+    },
+    {
+      "class": "bitmap",
+      "id": "4AAB11F3-A58C-4E99-BC2C-9DA6D893E74B"
+    },
+    {
+      "class": "group",
+      "id": "52BA343D-ACA4-4EDF-AFE5-1A083EABFB55"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D1E79C32-5B95-4221-9D8F-AFB2F3E85E52"
+    }
+  ],
+  "name": "1.1_flyer_create_watermark_subtle",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      316
+    ]
+  }
+}

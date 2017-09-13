@@ -1,0 +1,115 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9686274509803922,
+    "green": 0.9686274509803922,
+    "red": 0.9686274509803922
+  },
+  "do_objectID": "2806E9DA-5BFB-4857-9487-449C73A5651D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": -1608,
+    "y": 2256
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      271
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "0E124540-503A-4417-A766-623A2F0177F0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3B0564B3-2FB4-4B7D-90F7-D1CF77332B03"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B2D151B-6CA8-4A22-B2D8-A337BA6263EC"
+    },
+    {
+      "class": "group",
+      "id": "A9141A19-5655-41F1-AA14-F6D0A7724117"
+    },
+    {
+      "class": "group",
+      "id": "6A926107-EF24-4F1A-8217-FCF11C463A9C"
+    },
+    {
+      "class": "group",
+      "id": "59B99854-5703-4D75-8BC6-95F10C9C5DAE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "128DF932-CF0F-441D-B8F3-6B8463150971"
+    },
+    {
+      "class": "bitmap",
+      "id": "2F365FF2-14B6-4D14-A93B-799EF22D3C2F"
+    },
+    {
+      "class": "group",
+      "id": "BFE7CA18-B06F-40B2-B8E6-2050A3D876CF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E7E5B29C-E854-4C84-A2A2-91FC586A0F93"
+    }
+  ],
+  "name": "1.1_flyer_create_watermark_extreme",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      316
+    ]
+  }
+}

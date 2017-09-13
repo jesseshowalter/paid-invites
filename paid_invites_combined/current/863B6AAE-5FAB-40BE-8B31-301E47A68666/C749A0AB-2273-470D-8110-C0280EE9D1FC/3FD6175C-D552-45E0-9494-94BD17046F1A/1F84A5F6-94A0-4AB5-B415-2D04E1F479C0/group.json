@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "do_objectID": "1F84A5F6-94A0-4AB5-B415-2D04E1F479C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 61,
+    "width": 35,
+    "x": 68,
+    "y": 150.766355140187
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F5862738-7F47-4AFB-A596-B9EA4A007F7D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6D2693E5-AE74-4537-A2A5-B7B5C6D32B0D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A94577A9-67EF-4AB1-8CC4-944D0183369F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5B498BB3-8807-4888-B720-FD33AA6D6392"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "281B19D1-7FCF-4F47-8CB6-B2CBE3E385B1"
+    },
+    {
+      "class": "text",
+      "id": "E937D1E8-B1D8-48AE-91FD-0EECCF64DCC0"
+    }
+  ],
+  "name": "HEIGHT#5D5BB97B-8F4B-44C9-9805-75050C3F5455",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 44,
+            "enabled": 1,
+            "modelID": "constraint_9ed4f0c8-6687-4529-93d7-e170c61caaae",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 35
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_b52072b3-54d9-4269-b8a2-6a570219eb6f",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1
+        }
+      }
+    }
+  }
+}

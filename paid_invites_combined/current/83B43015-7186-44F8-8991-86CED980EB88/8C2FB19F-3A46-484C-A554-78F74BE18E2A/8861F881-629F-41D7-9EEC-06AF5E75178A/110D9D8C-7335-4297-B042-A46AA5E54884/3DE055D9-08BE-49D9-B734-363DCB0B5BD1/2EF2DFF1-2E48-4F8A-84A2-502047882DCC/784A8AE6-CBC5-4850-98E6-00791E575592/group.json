@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "do_objectID": "784A8AE6-CBC5-4850-98E6-00791E575592",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "eps",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 87,
+    "x": 722,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EF1F6036-0BE7-4E05-AF67-A28CC83480F9"
+    },
+    {
+      "class": "group",
+      "id": "F159B2E3-8966-4A61-9D98-F1BE1A5EA20C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B6485389-F94F-4546-A3A0-D9372DB46250"
+    },
+    {
+      "class": "group",
+      "id": "A09E6737-40CB-47E7-9A92-15ED6D888B57"
+    },
+    {
+      "class": "group",
+      "id": "76C84A39-C0FC-4B5C-8E41-4D08ECB74353"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "67F13EF4-6183-4F0E-8707-5939E8935790"
+    }
+  ],
+  "name": "logo_type_white",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "CEDA502E-1A14-40A7-8B7D-EC47AD78B5C4",
+        "version": 1
+      }
+    }
+  }
+}

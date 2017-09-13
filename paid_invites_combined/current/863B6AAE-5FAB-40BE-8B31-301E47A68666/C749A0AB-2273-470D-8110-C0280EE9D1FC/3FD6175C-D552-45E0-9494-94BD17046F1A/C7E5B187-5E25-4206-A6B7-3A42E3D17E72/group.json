@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "do_objectID": "C7E5B187-5E25-4206-A6B7-3A42E3D17E72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 43,
+    "width": 35,
+    "x": 268,
+    "y": 41.49532710280377
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9D9E4D33-E27D-4DDC-B474-A9097154CF2B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "27835C85-F514-4C8F-80E4-ACBFA448BFDF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2B63A5BA-9B9D-4A4C-B3FD-21F4F9EBC57C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C0764B14-10B8-4988-B4B7-23A7A9FF6571"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0DF686EF-D47C-4214-9BAD-5753A298A3ED"
+    },
+    {
+      "class": "text",
+      "id": "875E5DC9-EC65-44D9-B6AE-FD810EBA4110"
+    }
+  ],
+  "name": "RIGHT#9C3539D1-035C-4E7A-B022-8E845824FF03#B274B3AF-B19E-4726-91D2-7250CCBD17ED",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 31,
+            "enabled": 1,
+            "modelID": "constraint_e6708c19-5286-442b-af60-e5b64ad7a42a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 35
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_0e005b1d-78e6-45e0-8128-12809a1c0e7e",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1
+        }
+      }
+    }
+  }
+}
