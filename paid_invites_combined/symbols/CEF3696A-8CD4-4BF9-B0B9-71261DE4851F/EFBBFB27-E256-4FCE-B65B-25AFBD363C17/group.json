@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "EFBBFB27-E256-4FCE-B65B-25AFBD363C17",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 86,
+    "width": 398,
+    "x": -11,
+    "y": -56
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "36527EAF-47D9-4987-A260-89E483FD9EFB"
+    },
+    {
+      "class": "group",
+      "id": "4DED596F-9107-4C5A-B53C-8D567A305BED"
+    },
+    {
+      "class": "group",
+      "id": "356310E0-E2BD-413B-8C8C-3A1F410819DE"
+    },
+    {
+      "class": "group",
+      "id": "CC34590A-F123-4F58-AD74-1CE0C72958EA"
+    },
+    {
+      "class": "group",
+      "id": "DA70B6D3-CB9A-4D10-A417-2619DF13E3F5"
+    },
+    {
+      "class": "group",
+      "id": "68B27C6B-EB94-4CEE-A6F1-16A771585331"
+    }
+  ],
+  "name": "redline",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

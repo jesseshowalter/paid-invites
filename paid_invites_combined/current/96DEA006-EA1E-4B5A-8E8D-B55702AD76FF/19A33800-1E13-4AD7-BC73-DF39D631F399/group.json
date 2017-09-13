@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "19A33800-1E13-4AD7-BC73-DF39D631F399",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 375,
+    "x": 0,
+    "y": 81.28125
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "594D2459-0600-4D59-A93C-7532FC1ED6CD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "181EDB18-F21B-4FFD-AE99-DB7B9057C952"
+    },
+    {
+      "class": "text",
+      "id": "7F5B8D5F-2664-411B-A458-511FA7D69542"
+    },
+    {
+      "class": "text",
+      "id": "AF34B352-5F86-4726-90D7-237D72B502BA"
+    }
+  ],
+  "name": "segmented control",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.71875,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

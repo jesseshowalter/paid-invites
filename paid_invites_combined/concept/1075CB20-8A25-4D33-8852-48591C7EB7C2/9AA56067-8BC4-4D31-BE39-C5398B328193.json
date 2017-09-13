@@ -1,0 +1,48 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9AA56067-8BC4-4D31-BE39-C5398B328193",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 270,
+    "x": 53,
+    "y": 470
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "button/gradient",
+  "nameIsFixed": false,
+  "overrides": {
+    "49C4682E-91E4-439F-85B3-000B146EC82A": "Send to 57 guests"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "427F2E19-8A44-45F7-A58E-7A4918C1472B",
+  "verticalSpacing": 0
+}

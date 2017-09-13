@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "do_objectID": "C1E0C55A-0E59-4A1E-B923-39910B31D59B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 42,
+    "width": 44,
+    "x": 149,
+    "y": 109.2710280373832
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A8514D46-F032-4F1A-AAB7-64C593AFAE1E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AE8FA089-E225-4171-BF63-4A4DF95C2A7A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F9401CC2-EFA2-45AD-A712-0C2E3F72A3C3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "559001B8-B05D-40EE-BCD1-3EA97AABCBA5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E5CF6BD4-409D-404C-A4C2-0A156C9F1B5A"
+    },
+    {
+      "class": "text",
+      "id": "06A69FDC-0C6D-436D-A930-B5201FFD1C0E"
+    }
+  ],
+  "name": "VERTICAL#9C3539D1-035C-4E7A-B022-8E845824FF03#5D5BB97B-8F4B-44C9-9805-75050C3F5455",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 30,
+            "enabled": 1,
+            "modelID": "constraint_47cea203-4d10-45e5-aad6-b89ca306a6f9",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 44
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_b4a3b638-3739-418d-abb5-10a7c2fbea70",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1
+        }
+      }
+    }
+  }
+}

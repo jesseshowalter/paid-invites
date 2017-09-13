@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "4A3C5B4C-93D8-431E-A7E2-263A613184E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 178,
+    "width": 343,
+    "x": 15.234375,
+    "y": 194.046875
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "225D1388-9C81-497A-A919-0E955BF95E20"
+    },
+    {
+      "class": "group",
+      "id": "E1A8CC90-5EB0-4BDA-B29C-178AF9D9A0B2"
+    },
+    {
+      "class": "group",
+      "id": "BD5D8F05-5D80-42CD-B5A3-1C7EA06086F8"
+    },
+    {
+      "class": "group",
+      "id": "71A305DF-CB84-4EE2-9E74-E28131EB1146"
+    }
+  ],
+  "name": "Previous Invites",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.71875,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

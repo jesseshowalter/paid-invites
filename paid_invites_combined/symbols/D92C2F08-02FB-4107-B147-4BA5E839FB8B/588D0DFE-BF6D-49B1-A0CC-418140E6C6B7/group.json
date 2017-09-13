@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "588D0DFE-BF6D-49B1-A0CC-418140E6C6B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3690F35D-0823-46E8-A6BE-8B2363890EE0"
+    },
+    {
+      "class": "text",
+      "id": "1870BDDE-2673-4452-B35B-7338404778F0"
+    },
+    {
+      "class": "text",
+      "id": "9E07B65E-C7EB-493B-A548-957F3903DE68"
+    },
+    {
+      "class": "text",
+      "id": "843021DA-072B-4CE1-8457-CC569DF660A3"
+    }
+  ],
+  "name": "keyboard_top",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "3696BA48-3248-4712-984D-994258358FFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 250,
+    "x": 63,
+    "y": 230
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "57EA6573-A1D2-45C0-8329-878B65416507"
+    },
+    {
+      "class": "text",
+      "id": "6E088190-66E9-4E13-9349-B6E4430CA8CB"
+    }
+  ],
+  "name": "button_solid_bottom",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "43B746FD-B685-4CD3-9AF7-244C6550744F",
+        "version": 1
+      }
+    }
+  }
+}

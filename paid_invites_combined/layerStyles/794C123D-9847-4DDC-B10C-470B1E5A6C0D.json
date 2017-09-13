@@ -1,0 +1,30 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "794C123D-9847-4DDC-B10C-470B1E5A6C0D",
+  "name": "#overlay-shape",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.3,
+          "blue": 0,
+          "green": 0.333333,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "794C123D-9847-4DDC-B10C-470B1E5A6C0D",
+    "startDecorationType": 0
+  }
+}

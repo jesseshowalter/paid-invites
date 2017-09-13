@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "A75A1772-22A6-46F5-BF76-EC91A871BCEE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 41.92708333333333,
+    "width": 32.00000000000001,
+    "x": 93,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E3B1F06E-C1D4-4B09-A228-A202DE80BBC7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1C4B3A0E-62DE-4FFA-BDB3-6A45D96CA0D3"
+    }
+  ],
+  "name": "Voice",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

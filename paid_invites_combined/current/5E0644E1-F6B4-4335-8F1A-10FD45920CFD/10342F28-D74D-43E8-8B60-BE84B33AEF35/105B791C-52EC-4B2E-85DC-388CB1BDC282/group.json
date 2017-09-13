@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "do_objectID": "105B791C-52EC-4B2E-85DC-388CB1BDC282",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 91,
+    "width": 54,
+    "x": 0,
+    "y": 56
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0FF5FCDC-8E4A-48D8-BDBA-E97E2CE25D50"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A8C7D7E5-AA19-4D39-A9D1-E14AFFAA54A5"
+    },
+    {
+      "class": "group",
+      "id": "A8B6390C-FEDC-463D-9EC4-529F67A422D6"
+    }
+  ],
+  "name": "Button/square",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1846410778985507,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 2,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

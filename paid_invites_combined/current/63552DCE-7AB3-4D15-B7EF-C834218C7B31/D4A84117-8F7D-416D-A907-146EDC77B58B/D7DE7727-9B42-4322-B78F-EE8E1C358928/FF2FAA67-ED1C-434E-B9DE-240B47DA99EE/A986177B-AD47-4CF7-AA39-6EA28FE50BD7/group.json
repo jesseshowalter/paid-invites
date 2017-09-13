@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "do_objectID": "A986177B-AD47-4CF7-AA39-6EA28FE50BD7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 31,
+    "width": 235,
+    "x": 34,
+    "y": 181.1962616822431
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A3A0F12A-4804-4776-8A3D-3986628C3DCD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BFE65651-33CD-4BAE-B311-511E8BC1C4E0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "763663BF-7782-4CE5-8C40-FF990DC4A6E7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "961E9866-D2DF-4A56-9A81-FA1AB5462776"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "75FDED29-CFB0-4D9A-B311-226269750966"
+    },
+    {
+      "class": "text",
+      "id": "3A1D79AF-599C-4D9B-8A54-F8184F77FE21"
+    }
+  ],
+  "name": "WIDTH#5D5BB97B-8F4B-44C9-9805-75050C3F5455",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 22,
+            "enabled": 1,
+            "modelID": "constraint_d9174064-cb4b-4457-864f-5729ff7f0352",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 235
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_f0da93de-9346-4e2b-864a-2989b1c2fa64",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGW1xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJSszNjk9QUlKS0xNUVVXVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADXxAZVGVtcGxlLCBUWCwgVW5pdGVkIFN0YXRlc9MREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4AJgA2AFVdOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXTICEKIiMkVU5TUkdCXE5TQ29sb3JTcGFjZU8QHjAuNTY0NzA1ODgyNCAwLjYgMC42NTQ5MDE5NjA4ABABgAjSJicoKVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQ29sb3KiKCpYTlNPYmplY3TULAotLi8wMTFaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAAIAMgAqACtISCjQ1oIAL0iYnNzhXTlNBcnJheaI3KtImJzo7XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjOjwqXxAQTlNQYXJhZ3JhcGhTdHlsZdIKPj9AXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFIAO0xESCkJFSKJDRIAPgBCiRkeAEYASgBNfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAJAAAAAAAAF5Hb3RoYW1TU20tQm9va9ImJ05PXxATTlNNdXRhYmxlRGljdGlvbmFyeaNOUCpcTlNEaWN0aW9uYXJ50iYnUlNfEBBOU0ZvbnREZXNjcmlwdG9yolQqXxAQTlNGb250RGVzY3JpcHRvctImJ1BWolAq0iYnWFlfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiWipfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRXV5Ucm9vdIABAAgAEQAaACMALQAyADcAUQBXAF4AZwBuAHsAfQB/AIEAnQCkAKwAtwC7AL0AvwDBAMUAxwDJAMsAzQDVAOgBCgERARcBJAFFAUcBSQFOAVkBYgFqAW0BdgF/AYoBlwGjAaUBpwGpAasBsAGxAbMBuAHAAcMByAHiAeYB+QH+AhsCHQIfAiYCKQIrAi0CMAIyAjQCNgJMAmICawJ6An8ClQKZAqYCqwK+AsEC1ALZAtwC4QL2AvkDDgMgAyMDKAAAAAAAAAIBAAAAAAAAAF8AAAAAAAAAAAAAAAAAAAMq"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "BAA837BC-FAB2-4E59-9E92-D8FEB5E63DD8",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12,
+    "width": 135,
+    "x": 1.171875,
+    "y": 17.578125
+  },
+  "glyphBounds": "{{0, 0}, {135, 12}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Temple, TX, United S",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.929999865293503,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "AFFE24BB-959F-4F66-BAF9-61529080F328",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringFontAttribute": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAKXkdvdGhhbVNTbS1Cb29r0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDMANsA4ADrAPQBCgEOARsBJAEpATwBPwFSAWQBZwFsAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAW4="
+        },
+        "NSColor": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NPEB4wLjU2NDcwNTg4MjQgMC42IDAuNjU0OTAxOTYwOAAQAYAC0hAREhNaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0NvbG9yohIUWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc7QUhOW2KDhYeMl6Coq7TGyc4AAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAA0A=="
+        },
+        "NSParagraphStyle": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGIyRYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKYHCBEVHB9VJG51bGzUCQoLDA0ODxBaTlNUYWJTdG9wc1YkY2xhc3NcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzgACABYACgATSEgoTFFpOUy5vYmplY3RzoIAD0hYXGBlaJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVBcnJheaMYGhtXTlNBcnJheVhOU09iamVjdNISCh0UoIAD0hYXICFfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaMgIhtfEBBOU1BhcmFncmFwaFN0eWxlXxAPTlNLZXllZEFyY2hpdmVy0SUmVHJvb3SAAQAIABEAGgAjAC0AMgA3AD4ARABNAFgAXwBsAHgAegB8AH4AgACFAJAAkQCTAJgAowCsALsAvwDHANAA1QDWANgA3QD3APsBDgEgASMBKAAAAAAAAAIBAAAAAAAAACcAAAAAAAAAAAAAAAAAAAEq"
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 0
+}

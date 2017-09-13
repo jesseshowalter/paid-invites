@@ -1,0 +1,85 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "F4F64B4B-7268-4FBE-83ED-3A8C0D4F371F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 9.5,
+    "width": 24.5,
+    "x": 339,
+    "y": 3.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E3F2C5AB-967B-4926-B71E-F1E9CD4F33FB"
+    },
+    {
+      "class": "shapePath",
+      "id": "026A88CD-5FC2-4964-91FF-ED6AE03B9954"
+    },
+    {
+      "class": "rectangle",
+      "id": "62611B15-CB00-4A41-B535-A9A9DCA5C3A9"
+    },
+    {
+      "class": "rectangle",
+      "id": "DB310B57-6013-4B47-9D6F-D57C3506B2EB"
+    }
+  ],
+  "name": "Battery",
+  "nameIsFixed": true,
+  "originalObjectID": "AD2CEA30-4625-4C9B-B178-E25EFC2C7462",
+  "resizingConstraint": 44,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 0
+}

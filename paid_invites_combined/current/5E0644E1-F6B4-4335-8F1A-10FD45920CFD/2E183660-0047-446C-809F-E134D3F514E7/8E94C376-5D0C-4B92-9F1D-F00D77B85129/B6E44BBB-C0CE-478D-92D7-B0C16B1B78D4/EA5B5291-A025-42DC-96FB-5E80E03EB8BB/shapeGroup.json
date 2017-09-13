@@ -1,0 +1,86 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "EA5B5291-A025-42DC-96FB-5E80E03EB8BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 19.5,
+    "width": 19.5,
+    "x": 11,
+    "y": 10.96435185185185
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "96A21087-F6C1-42E2-AF2E-7887528749FD"
+    },
+    {
+      "class": "oval",
+      "id": "42652D47-4218-470D-AED1-B5D41441F15A"
+    },
+    {
+      "class": "oval",
+      "id": "9A2CE860-0967-4E9F-BC9A-E4215E2B1190"
+    },
+    {
+      "class": "oval",
+      "id": "B168D94C-A4A2-48E2-AEAA-4D3ACCDD6DEE"
+    },
+    {
+      "class": "shapePath",
+      "id": "771F0BDA-9500-4AC7-A74E-39AE0AE6B92E"
+    },
+    {
+      "class": "shapePath",
+      "id": "64FF5E3C-04EB-40A4-A5F1-B55AB87BBA83"
+    }
+  ],
+  "name": "Emoji",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.0117647058823529,
+          "green": 0.0117647058823529,
+          "red": 0.0117647058823529
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

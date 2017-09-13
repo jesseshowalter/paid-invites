@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "E83D962D-D2E9-4BD5-BDD1-FD6C48B7817D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 52,
+    "x": 276.5625,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C851EB15-72C7-431F-8C2F-19E8E9578E44"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "02E9B1F4-E6DB-4E93-A73F-496AD63BEA38"
+    }
+  ],
+  "name": "switch (on)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.11029411764706,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.edenvidal.states-for-sketch": {
+      "x-states-state-values": {
+        "BC315DAF-D4A7-4AC6-898B-8DFBA0A3BFBC": {
+          "frame": "{{309, 7}, {51, 31}}",
+          "visible": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "30CC4158-B1AD-47E5-8B2C-3B4D6514335F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 41.92708333333333,
+    "width": 41.99999999999999,
+    "x": 46.00000000000001,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "63BA6508-DA66-4B84-BAEE-8A1429ED84C8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4BDAF3F9-103A-47CF-974D-1D837ABB9BCD"
+    }
+  ],
+  "name": "Emoji",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

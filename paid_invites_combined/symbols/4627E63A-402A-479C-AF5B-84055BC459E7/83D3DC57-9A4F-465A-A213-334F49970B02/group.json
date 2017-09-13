@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "83D3DC57-9A4F-465A-A213-334F49970B02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9B70B484-8359-414A-83C6-5848FE84D046"
+    },
+    {
+      "class": "group",
+      "id": "1A63948C-0949-4D87-9903-C292F90631DE"
+    },
+    {
+      "class": "text",
+      "id": "FA703700-3928-44FC-845B-5E251F1C0D77"
+    },
+    {
+      "class": "text",
+      "id": "8B11CD75-0E05-446F-838C-9F632B28D88D"
+    }
+  ],
+  "name": "upgrade banner",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

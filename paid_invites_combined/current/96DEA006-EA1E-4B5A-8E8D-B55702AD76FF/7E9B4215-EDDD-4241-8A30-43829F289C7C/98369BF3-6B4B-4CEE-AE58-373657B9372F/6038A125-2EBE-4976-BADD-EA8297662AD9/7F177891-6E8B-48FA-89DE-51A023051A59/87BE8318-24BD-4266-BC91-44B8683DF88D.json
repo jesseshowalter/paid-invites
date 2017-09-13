@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGXl9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJysyNTxARExNTk9QVFhaVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADVTIzNXB40xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAuADYAVV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdQgISIKIyQlJlVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VGMSAxIDEAEAGACIAK0igKKSpUTlNJRBABgAnSLC0uL1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIwMVxOU0NvbG9yU3BhY2VYTlNPYmplY3TSLC0zNFdOU0NvbG9yojMx1DY3OAo5OiQ7Wk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9ugAAQAoAM0iwtPT5fEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM9PzFfEBBOU1BhcmFncmFwaFN0eWxl0gpBQkNfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TERIKRUhLokZHgA+AEKJJSoARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AoAAAAAAAAXUhlbHZldGljYU5ldWXSLC1RUl8QE05TTXV0YWJsZURpY3Rpb25hcnmjUVMxXE5TRGljdGlvbmFyedIsLVVWXxAQTlNGb250RGVzY3JpcHRvcqJXMV8QEE5TRm9udERlc2NyaXB0b3LSLC1TWaJTMdIsLVtcXxASTlNBdHRyaWJ1dGVkU3RyaW5nol0xXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WBhVHJvb3SAAQAIABEAGgAjAC0AMgA3AFEAVwBeAGcAbgB7AH0AfwCBAIcAjgCWAKEApQCnAKkAqwCvALEAswC1ALcAvwDSAPQA/QEDARABJQEsAS4BMAEyATcBPAE+AUABRQFQAVkBZgFpAXYBfwGEAYwBjwGYAaMBrwHRAdMB1QHXAdwB9gH6Ag0CEgIvAjECMwI6Aj0CPwJBAkQCRgJIAkoCYAJ2An8CjQKSAqgCrAK5Ar4C0QLUAucC7ALvAvQDCQMMAyEDMwM2AzsAAAAAAAACAQAAAAAAAABiAAAAAAAAAAAAAAAAAAADPQ=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "87BE8318-24BD-4266-BC91-44B8683DF88D",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 14,
+    "width": 34,
+    "x": 101,
+    "y": 5.501274426508076
+  },
+  "glyphBounds": "{{0, 2}, {34, 12}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "label-text",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "E045D0DB-1F07-4E2B-908E-679A0F463672"
+  },
+  "textBehaviour": 1
+}

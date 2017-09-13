@@ -1,0 +1,175 @@
+{
+  "_class": "page",
+  "do_objectID": "BE70469F-F1D2-4662-9B2D-A824D94C23B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -621,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "5E0644E1-F6B4-4335-8F1A-10FD45920CFD"
+    },
+    {
+      "class": "artboard",
+      "id": "F3FB6448-8505-49E5-A61A-1A4A070D4309"
+    },
+    {
+      "class": "artboard",
+      "id": "C1731A0B-9DA0-4BAA-A7FF-BBF8CEAB3B23"
+    },
+    {
+      "class": "artboard",
+      "id": "579E839B-72CA-477C-88B2-A87535FFA93F"
+    },
+    {
+      "class": "artboard",
+      "id": "1A0731BF-FDF5-427E-975F-D70F9338B943"
+    },
+    {
+      "class": "artboard",
+      "id": "0DA58D34-7DF5-453F-8A5C-E3CAAE9E1AB9"
+    },
+    {
+      "class": "artboard",
+      "id": "FF3840A6-C22F-4B1A-BAD0-FBF15FC5FB6A"
+    },
+    {
+      "class": "artboard",
+      "id": "98EA73D5-D4D8-4A03-85CC-84E59711FA4A"
+    },
+    {
+      "class": "artboard",
+      "id": "498827E3-4B45-49B8-874D-3EFEDE0BB29E"
+    },
+    {
+      "class": "artboard",
+      "id": "0A56E471-BF13-4785-B2BE-2FA06EF3BBEF"
+    },
+    {
+      "class": "artboard",
+      "id": "2D8EE691-8D71-41FB-A16D-8C04406076F8"
+    },
+    {
+      "class": "artboard",
+      "id": "F41BC2D3-42F4-404B-92C2-6C8165C4BBF0"
+    },
+    {
+      "class": "artboard",
+      "id": "A42AF1E7-B135-41D5-BE65-1B33B42CA6D7"
+    },
+    {
+      "class": "artboard",
+      "id": "39DF0AD4-CF24-4983-A6AD-39B21F99AFDD"
+    },
+    {
+      "class": "artboard",
+      "id": "D953015F-955A-4285-B738-893F65C0F0BA"
+    },
+    {
+      "class": "artboard",
+      "id": "DE52D0F0-0E3E-41FA-BCB5-02A412CFB9F8"
+    },
+    {
+      "class": "artboard",
+      "id": "E4184A9C-1CED-43A9-A3DE-4CE9D9513591"
+    },
+    {
+      "class": "artboard",
+      "id": "87BF8541-45BB-4A1E-A444-38B3ED5FABC7"
+    },
+    {
+      "class": "artboard",
+      "id": "96DEA006-EA1E-4B5A-8E8D-B55702AD76FF"
+    },
+    {
+      "class": "artboard",
+      "id": "7A7AEFED-5D58-495C-B1B7-A74CBD30F876"
+    },
+    {
+      "class": "artboard",
+      "id": "3CF59E4C-F6D3-40DE-8B8E-B39CCB20145E"
+    },
+    {
+      "class": "artboard",
+      "id": "3B418B76-7973-444D-B135-00CE09C14F1B"
+    },
+    {
+      "class": "artboard",
+      "id": "8B8BFC01-BABA-4C0C-B101-EE47B4D21DFE"
+    },
+    {
+      "class": "artboard",
+      "id": "4FD5331E-F268-4D58-B6E8-9C5616D315BC"
+    },
+    {
+      "class": "artboard",
+      "id": "63552DCE-7AB3-4D15-B7EF-C834218C7B31"
+    },
+    {
+      "class": "artboard",
+      "id": "5799A1C8-A866-4EFE-BBCD-BC2589E94D5A"
+    },
+    {
+      "class": "artboard",
+      "id": "250C390A-93BD-492C-B478-115864B8D6E9"
+    },
+    {
+      "class": "artboard",
+      "id": "840CCD95-8B54-4E7F-ACA9-D98951F3A6B8"
+    }
+  ],
+  "name": "current",
+  "nameIsFixed": true,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.silverflows.osx.silver": {
+      "componentInfo": {
+        "name": "Screens"
+      },
+      "componentType": "Flow",
+      "version": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -470,
+    "guides": [
+    ]
+  }
+}

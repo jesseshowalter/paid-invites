@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "2E183660-0047-446C-809F-E134D3F514E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 218,
+    "width": 375,
+    "x": 0,
+    "y": 448.828125
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2C582255-F7B1-4E09-BCE4-D4F94AB8DE5C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "34DAF532-6AE5-43AE-A86A-C56ACF5DB747"
+    },
+    {
+      "class": "group",
+      "id": "8E94C376-5D0C-4B92-9F1D-F00D77B85129"
+    },
+    {
+      "class": "group",
+      "id": "725142FD-4DE5-43D5-B230-7F069FE7E4E2"
+    },
+    {
+      "class": "group",
+      "id": "C5FA0CE2-FA15-4834-AE6B-2AB64742685C"
+    },
+    {
+      "class": "group",
+      "id": "5419D334-7D19-481E-94EB-3373E5050C7D"
+    }
+  ],
+  "name": "Keyboard/Light/Upper",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
