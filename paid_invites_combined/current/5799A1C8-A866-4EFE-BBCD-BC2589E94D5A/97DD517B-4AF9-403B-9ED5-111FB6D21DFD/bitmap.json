@@ -27,7 +27,7 @@
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "footerNav",

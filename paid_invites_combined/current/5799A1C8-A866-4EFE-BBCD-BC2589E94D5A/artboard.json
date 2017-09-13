@@ -56,40 +56,52 @@
       "id": "5E22857C-8988-4236-9EB8-25AC550357D0"
     },
     {
-      "class": "group",
-      "id": "D46CD12A-C38C-4236-9223-E4474108FE4A"
+      "class": "shapeGroup",
+      "id": "6C976CF5-C452-4772-AE1B-F62BFA553238"
     },
     {
-      "class": "group",
-      "id": "4768B87D-4C35-4E0F-BC92-07FF480C4344"
+      "class": "shapeGroup",
+      "id": "A0B1940C-9CEC-48B4-BA93-F0A024E91868"
     },
     {
-      "class": "group",
-      "id": "EA8B282D-EA1F-4A0C-B755-B710D2B46820"
+      "class": "shapeGroup",
+      "id": "190D07B9-D41E-4D4A-985A-C0EBC3B7EC54"
     },
     {
-      "class": "bitmap",
-      "id": "AA17C22B-4DB8-45E3-9372-EF3C1F97DFEF"
+      "class": "shapeGroup",
+      "id": "66033099-4979-4B22-9A80-719BE0908F45"
     },
     {
-      "class": "bitmap",
-      "id": "C388515D-BD3A-423B-AA34-7598EF42A57E"
+      "class": "shapeGroup",
+      "id": "E5B4E4EE-AFA4-4222-B4AC-B921AE327B25"
     },
     {
-      "class": "bitmap",
-      "id": "829176AD-F3DD-4C8E-A212-A0741993AA39"
+      "class": "shapeGroup",
+      "id": "ED2A5BC2-B9E2-4334-9CAE-6B831028200A"
     },
     {
-      "class": "bitmap",
-      "id": "E025A112-15CE-4F5E-84C0-D05D206C81EA"
+      "class": "shapeGroup",
+      "id": "6997F115-8D07-4D44-BA6B-9529FCC1F60B"
     },
     {
-      "class": "bitmap",
-      "id": "3760BAEE-B017-400B-91B6-80E9420D721F"
+      "class": "shapeGroup",
+      "id": "84A04FA0-E337-434A-959F-45F5334E3A6A"
     },
     {
-      "class": "bitmap",
-      "id": "97DD517B-4AF9-403B-9ED5-111FB6D21DFD"
+      "class": "shapeGroup",
+      "id": "2606A515-D217-47F7-B572-2E5EA59E937F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "829AFCD9-43F9-4436-90CD-E8249176872B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CFB613BA-B402-42B8-8EFB-C694CC563FB3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B76AB837-6B3B-4401-9461-276AD916E234"
     },
     {
       "class": "group",
@@ -98,9 +110,13 @@
     {
       "class": "group",
       "id": "0A4AED14-F63D-4C03-9A4D-51F94F2F5E70"
+    },
+    {
+      "class": "bitmap",
+      "id": "97DD517B-4AF9-403B-9ED5-111FB6D21DFD"
     }
   ],
-  "name": "1.1_flyer_create",
+  "name": "1.1_flyer_create_no_scroll",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
